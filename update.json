@@ -5,6 +5,6 @@
   "platforms": {
     "windows-x86_64": {
       "signature":   "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTGNSTWovQ2ljbDZmOGJIU0ZkbkFVUjdydkJQOFBqTjZSMkxYL1dxajZPaGZFN0lkbUJkVWR0cFRwVktvaUN1VGE3b2pKVmR1T0xwNENuWnVmSFREVmZxUXNhTkI5V1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjY4NzMzNTkxCWZpbGU6dGF1cmktYXBwXzAuMC4xX3g2NF9lbi1VUy5tc2kuemlwClAvTHBlb3VZdmRzVm42MURzdDBKZHNua0UxOGpGV2dUUTlvQ2Q4ZFNNSnBETTFyRHRwL29tOHdreXd5N1FnRURXeEJYKzhtZTBMd1U1VWlUM1d0OUR3PT0K",
-      "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/541488504/aff206f8-66eb-4192-8b7d-70b1f637a56f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20221118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221118T011250Z&X-Amz-Expires=300&X-Amz-Signature=f130fa406fd662943c85cc0dd06bc4737b9cc74988e718f5c519155a37fbccb8&X-Amz-SignedHeaders=host&actor_id=82867985&key_id=0&repo_id=541488504&response-content-disposition=attachment%3B%20filename%3Dtauri-app_0.0.1_x64_en-US.msi.zip&response-content-type=application%2Foctet-stream"
+      "url": "https://github.com/htb0001/test-demo/releases/download/%E4%BB%8E%E9%83%A8%E5%88%86%E6%92%92/tauri-app_0.0.1_x64_en-US.msi.zip"
     }
   }
